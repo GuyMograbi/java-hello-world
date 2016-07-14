@@ -2,7 +2,7 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>java-hello-world</artifactId>
-    <groupId>guymograbi</groupId>
+    <groupId>com.github.guymograbi</groupId>
     <version>0.0.0</version>
     <packaging>jar</packaging>
 

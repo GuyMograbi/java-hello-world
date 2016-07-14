@@ -1,4 +1,4 @@
-package coderondeck;
+package com.github.guymograbi;
 
 public class HelloWorld{
 
